@@ -1,0 +1,2 @@
+This applications shows about Signup,Login forms and the signup data will store in the firebase database.
+Through the firebase we know that what we get the data typed in signup page and through the valid detailed data , we can login to the app.
